@@ -2,7 +2,7 @@
 ### forked from (hipsnip-cookbook-development)
 
 A central place to manage the Gem dependencies, Rake tasks and development readme that's shared
-between Chef cookbooks. See below on how to get set up for working on a HipSnip cookbook, and how to run the tests for it.
+between Chef cookbooks. See below on how to get set up for working on a CCD cookbook, and how to run the tests for it.
 
 
 ## What you'll need to get started
