@@ -24,8 +24,9 @@ From the root of the cookbook repo:
 
 
 NOTE:  You may also have to install libxml2, ruby-dev, and other dependencies for 'bundle install' to complete successfully.  On *nix systems with Debian-style package distributions the following commands may be needed:
-sudo apt-get install libxslt-dev libxml2-dev
-sudo apt-get install ruby-dev
+
+    sudo apt-get install libxslt-dev libxml2-dev
+    sudo apt-get install ruby-dev
 
 You may also need the 'build-essential' package.  These package naming conventions may be different on other systems such as RHEL.
 
